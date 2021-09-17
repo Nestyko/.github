@@ -1,4 +1,4 @@
-## Hi there 👋, Lets write some code.
+## Hi there 👋, Let's write some code.
 
 #### Quick Access
 - [Labra/Oppsync Wiki](https://github.com/ibexlabs/labrav-product_engineering_docs/wiki)
