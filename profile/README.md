@@ -11,3 +11,4 @@
 - ### [OppSync Marketplace service](https://github.com/ibexlabs/oppsync-marketplace_service)
 - ### [Labra Ventures Lambdas](https://github.com/ibexlabs/labrav-lambdas)
 - ### [Labra Ventures Python Microservice Boilerplate](https://github.com/ibexlabs/labrav-back-end-boilerplate)
+- ### [Labra Ventures Webapps Boilerplate](https://github.com/ibexlabs/labrav-front-end-boilerplate)
