@@ -3,6 +3,7 @@
 ## Quick Repo Access
 - [Labra/OppSync Wiki](https://github.com/ibexlabs/labrav-product_engineering_docs/wiki)
 - [OppSync Webapp](https://github.com/ibexlabs/oppsync-webapp)
+- [OppSync Landing Page](https://github.com/ibexlabs/labrav-oppsync-landing-page)
 - [OppSync Engine Service](https://github.com/ibexlabs/oppsync-engine_service)
 - [OppSync CRM Service](https://github.com/ibexlabs/oppsync-crm_service_2)
 - [OppSync Gatekeeper Service](https://github.com/ibexlabs/oppsync-gatekeeper_service)
