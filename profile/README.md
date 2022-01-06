@@ -19,3 +19,4 @@
 ### Best Practice/Style Guide
 - [Python](https://github.com/ibexlabs/labrav-product_engineering_docs/wiki/Python-Coding-Best-Practices) 
 - [Golang](https://github.com/uber-go/guide/blob/master/style.md) 
+- [REST APIs](https://github.com/ibexlabs/labrav-product_engineering_docs/wiki/REST-API-best-practices) 
