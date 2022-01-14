@@ -10,6 +10,7 @@
 - [OppSync Notification Service](https://github.com/ibexlabs/labrav-notification_service)
 - [OppSync Lambdas](https://github.com/ibexlabs/labrav-oppsync-lambdas)
 - [OppSync Marketplace service](https://github.com/ibexlabs/oppsync-marketplace_service)
+- [Oppsync ACE S3 Library](https://github.com/ibexlabs/ace-s3-lib)
 ***  
 - [Labra Ventures Lambdas](https://github.com/ibexlabs/labrav-lambdas)
 - [Labra Ventures Python Microservice Boilerplate](https://github.com/ibexlabs/labrav-back-end-boilerplate)
